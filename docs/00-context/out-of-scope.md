@@ -46,6 +46,12 @@ This document explicitly lists features, capabilities, and enhancements that are
 | -------------------------------------------------- | -------------------------------------------------------------------- | ------------ |
 | [Deferred capability, e.g. multi-region deployment]| [Why it is excluded.]                                                | [—]          |
 
+### Design & Architecture Decision Support
+
+| Item                                               | Rationale                                                            | Traceability |
+| -------------------------------------------------- | -------------------------------------------------------------------- | ------------ |
+| Automating deeper design or architectural decisions| Out of scope for the MVP: the tool accelerates assembling documentation and delivering features, but does not make deeper design or architectural decisions for the user. | —            |
+
 ---
 
 ## Revisit Criteria
@@ -59,4 +65,4 @@ These out-of-scope items may be reconsidered when:
 
 ---
 
-**Last Updated**: YYYY-MM-DD
+**Last Updated**: 2026-09-23
