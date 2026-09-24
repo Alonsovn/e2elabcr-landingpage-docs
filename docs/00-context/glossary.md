@@ -34,16 +34,16 @@ This document defines key terms used throughout the requirements and architectur
 
 ## Business Concepts
 
-**[Concept 1]**
-[Definition: the business meaning, including any limits, quotas, or rules attached to it.]
+**EndToEndLabCR**
+The non-profit organization this landing page represents: an open community of developers at all levels who collaborate to design, build, and deliver clean, scalable, production-ready software while sharing high-quality practices.
 
 ## Technical Terms
 
-**[Term 1]**
-[Definition: the technical meaning as used in this project, including references to relevant NFRs or ADRs.]
+**Open code**
+Code made freely available at zero cost, as practiced by EndToEndLabCR, so anyone can read, reuse, and contribute without licensing barriers.
 
 ---
 
 **Version**: 0.1
-**Last Updated**: YYYY-MM-DD
+**Last Updated**: 2026-09-23
 **Owner**: Product Owner

@@ -10,30 +10,57 @@ sidebar_position: 2
 
 ---
 
-## Persona 1: [Persona Label] (Primary)
+## Persona 1: Entry-Level Developer (Primary)
 
 **Name:** [Representative first name]
-**Role:** [Job title or role]
+**Role:** Entry-level software developer
+**Experience:** Junior — little or no production experience
+
+### Primary Goals
+
+- Produce clear, useful documentation for the projects they work on.
+- Contribute to a production project without a long ramp-up or onboarding.
+
+### Pain Points
+
+- Documentation takes too long, so onboarding and delivery drag on.
+- Finding the right tools for the job is time-consuming and often unclear.
+
+### Needs & Expectations
+
+- An easier, faster way to document their work.
+- Solid templates to start from instead of an empty slate.
+
+### Success Indicators
+
+- A well-documented project where a new collaborator can start working with zero — or almost zero — onboarding.
+
+### Quote
+
+> "[One sentence capturing this persona's attitude in their own words.]"
+
+---
+
+## Persona 2: Project Manager (Secondary)
+
+**Name:** [Representative first name]
+**Role:** Project manager
 **Experience:** [Years of experience / technical proficiency]
 
 ### Primary Goals
 
-- [What this persona is trying to achieve with the product.]
-- [What this persona is trying to achieve with the product.]
+- Accelerate their job: shorten the time their team spends on onboarding and delivering new features.
 
 ### Pain Points
 
 - [Current friction, unmet need, or recurring problem.]
-- [Current friction, unmet need, or recurring problem.]
 
 ### Needs & Expectations
 
-- [Capability or experience the product must provide for this persona.]
-- [Capability or experience the product must provide for this persona.]
+- A dependable tool their team can use to document faster and deliver sooner.
 
 ### Success Indicators
 
-- [Observable outcome that shows the product works for this persona.]
 - [Observable outcome that shows the product works for this persona.]
 
 ### Quote
@@ -42,15 +69,15 @@ sidebar_position: 2
 
 ---
 
-## Persona 2: [Persona Label] (Secondary)
+## Persona 3: Senior Developer (Secondary)
 
 **Name:** [Representative first name]
-**Role:** [Job title or role]
+**Role:** Senior software developer who leads or mentors a team
 **Experience:** [Years of experience / technical proficiency]
 
 ### Primary Goals
 
-- [What this persona is trying to achieve with the product.]
+- Give their team a powerful, proven starting point: templates, multi-language examples, and architecture guidance.
 
 ### Pain Points
 
@@ -58,7 +85,7 @@ sidebar_position: 2
 
 ### Needs & Expectations
 
-- [Capability or experience the product must provide for this persona.]
+- A dependable, professional resource they can hand to their team with confidence.
 
 ### Success Indicators
 
@@ -76,4 +103,4 @@ sidebar_position: 2
 
 ---
 
-**Last Updated**: YYYY-MM-DD
+**Last Updated**: 2026-09-23
